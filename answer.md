@@ -1,12 +1,12 @@
 # 第3次練習-練習-PC3
 >
->學號：1234567
+>學號：110111219
 ><br />
->姓名：王小明
+>姓名：葉育昇
 ><br />
->作業撰寫時間：180 (mins，包含程式撰寫時間)
+>作業撰寫時間：90 (mins，包含程式撰寫時間)
 ><br />
->最後撰寫文件日期：2022/10/12
+>最後撰寫文件日期：2023/06/12
 >
 
 本份文件包含以下主題：(至少需下面兩項，若是有多者可以自行新增)
@@ -18,43 +18,7 @@
 1. 請參照亞東portal上期中考周下載期中考題目，並且參閱上面的期中考解答(.md檔案，可快速點選連結觀看)，請同學就老師本周期中考的講解，對第一大題中的「5.公告案例」依照合約規範撰寫規則撰寫該合約。
 
     答案：
-
-開始寫說明，該說明需說明想法，
-並於之後再對上述想法的每一部分將程式進一步進行展現，
-若需引用程式區則使用下面方法，
-若為.cs檔內程式除了於敘述中需註明檔案名稱外，
-還需使用語法` ```語言種類 程式碼 ``` `，其中語言種類若是要用python則使用py，java則使用java，C/C++則使用cpp，
-下段程式碼為語言種類選擇csharp使用後結果：
-
-```csharp
-public void mt_getResult(){
-    ...
-}
-```
-
-若要於內文中標示部分網頁檔，則使用以下標籤` ```html 程式碼 ``` `，
-下段程式碼則為使用後結果：
-
-```html
-<%@ Page Language="C#" AutoEventWireup="true" ...>
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" ...>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-    </form>
-</body>
-</html>
-```
-更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
-
-## 個人認為完成作業須具備觀念
-
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="341px" viewBox="-0.5 -0.5 341 284" content="&lt;mxfile&gt;&lt;diagram id=&quot;9tPoMudD0EsFpAGn6Bpd&quot; name=&quot;第1頁&quot;&gt;&lt;mxGraphModel dx=&quot;543&quot; dy=&quot;474&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;827&quot; pageHeight=&quot;1169&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;5&quot; value=&quot;合約1 : 建立&quot; style=&quot;swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;&quot; parent=&quot;1&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;210&quot; y=&quot;10&quot; width=&quot;340&quot; height=&quot;130&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;6&quot; value=&quot;操作 : 委員身分用戶可以利用系統建立公告&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;5&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;26&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;7&quot; value=&quot;交互參照: 公告案例&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;5&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;52&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;8&quot; value=&quot;前置條件: 註冊過APP的委員用戶&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;5&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;78&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;10&quot; value=&quot;後置條件:  委員可修改、刪除公告&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;5&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;104&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;11&quot; value=&quot;合約2 : 回應&quot; style=&quot;swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;&quot; parent=&quot;1&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;210&quot; y=&quot;160&quot; width=&quot;340&quot; height=&quot;130&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;12&quot; value=&quot;操作 : 住戶身分用戶可預覽公告，全體用戶皆可參與討論&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;11&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;26&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;13&quot; value=&quot;交互參照: 公告案例&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;11&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;52&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;14&quot; value=&quot;前置條件: 註冊過APP的社區內成員用戶&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;11&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;78&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;15&quot; value=&quot;後置條件: 無&quot; style=&quot;text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;&quot; parent=&quot;11&quot; vertex=&quot;1&quot;&gt;&lt;mxGeometry y=&quot;104&quot; width=&quot;340&quot; height=&quot;26&quot; as=&quot;geometry&quot;/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://viewer.diagrams.net/?client=1&amp;page=0&amp;edit=_blank');}}})(this);" style="cursor:pointer;max-width:100%;max-height:284px;"><defs><clipPath id="mx-clip-4-31-332-26-0"><rect x="4" y="31" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-57-332-26-0"><rect x="4" y="57" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-83-332-26-0"><rect x="4" y="83" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-109-332-26-0"><rect x="4" y="109" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-181-332-26-0"><rect x="4" y="181" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-207-332-26-0"><rect x="4" y="207" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-233-332-26-0"><rect x="4" y="233" width="332" height="26"/></clipPath><clipPath id="mx-clip-4-259-332-26-0"><rect x="4" y="259" width="332" height="26"/></clipPath></defs><g><path d="M 0 26 L 0 0 L 340 0 L 340 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 26 L 0 130 L 340 130 L 340 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 0 26 L 340 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" font-size="12px"><text x="1.5" y="17.5">合約1 : 建立</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-332-26-0)" font-size="12px"><text x="5.5" y="43.5">操作 : 委員身分用戶可以利用系統建立公告</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-57-332-26-0)" font-size="12px"><text x="5.5" y="69.5">交互參照: 公告案例</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-83-332-26-0)" font-size="12px"><text x="5.5" y="95.5">前置條件: 註冊過APP的委員用戶</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-109-332-26-0)" font-size="12px"><text x="5.5" y="121.5">後置條件:  委員可修改、刪除公告</text></g><path d="M 0 176 L 0 150 L 340 150 L 340 176" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 0 176 L 0 280 L 340 280 L 340 176" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><path d="M 0 176 L 340 176" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" font-size="12px"><text x="1.5" y="167.5">合約2 : 回應</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-181-332-26-0)" font-size="12px"><text x="5.5" y="193.5">操作 : 住戶身分用戶可預覽公告，全體用戶皆可參與討論</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-207-332-26-0)" font-size="12px"><text x="5.5" y="219.5">交互參照: 公告案例</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-233-332-26-0)" font-size="12px"><text x="5.5" y="245.5">前置條件: 註冊過APP的社區內成員用戶</text></g><g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-259-332-26-0)" font-size="12px"><text x="5.5" y="271.5">後置條件: 無</text></g></g></svg>
+        
 開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
+    這次練習讓我學到如何繪製公告案例中，學習了如何替案例撰寫合約，使其前置後置內容更加明確。
